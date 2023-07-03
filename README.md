@@ -1,4 +1,4 @@
-# NBA Shot Prediction using Machine Learning (XGBoost) #
+# NBA Shot Prediction using XGBoost #
 
 The provided Python script utilizes data analysis, visualization, and machine learning techniques to gain insights into individual NBA players' shot selection, using data on Kobe Bryant as an example. The code begins by performing exploratory data analysis and visualization techniques to analyze various aspects of Kobe Bryant's shots, including shot make distribution, location, time, period analysis, clutch time, performance analysis, and shot type analysis.
 
